@@ -11,7 +11,10 @@ Liyan Zheng is an undergraduate student in Department of Computer Science, Tsing
 
 Interests
 ======
-I am interseted in coding since I am a middle school student. And after I 
+I am interseted in coding since I am a middle school student. During undergraduate study, I focus on high-performance computing and network. My interests includes:
+1. High-proformance computing
+1. Parallel computing
+1. Operating system
 
 Experience
 ======
