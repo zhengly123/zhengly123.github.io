@@ -50,7 +50,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification :
+google_site_verification : E6XsQVDDYf7TZkC8t61axWODwlITco3kq0YxcWGJvpA
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
@@ -83,7 +83,7 @@ author:
   name             : "Liyan Zheng"
   avatar           : "zly.jpg"
   bio              : 
-  location         : "Beijing"
+  location         :
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=odyWv7gAAAAJ"
   email            : "liyan-zheng at outlook.com"
