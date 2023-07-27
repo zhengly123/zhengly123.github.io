@@ -19,14 +19,42 @@ Projects
 - [InfiniTensor](https://github.com/InfiniTensor/InfiniTensor) is a high-performance inference engine tailored for GPUs and AI accelerators. Its design focuses on effective deployment and swift academic validation.
 - [Vapro](https://github.com/thu-pacman/VAPRO) is a performance profiler to detect and diagnose performance variance (i.e., performance degradation and jitters) for parallel applications.
 
+Publications
+======
+
+<!-- [Paper]() [Slides]() [Code]() -->
+
+- [EinNet: Optimizing Tensor Programs with Derivation-Based Transformations](papers/OSDI23_EinNet.pdf)
+
+    [OSDI'23] **Liyan Zheng**, Haojie Wang, Jidong Zhai, Muyan Hu, Zixuan Ma, Tuowei Wang, Shuhong Huang, Xupeng Miao, Shizhi Tang, Kezhao Huang, Zhihao Jia
+
+- [Vapro: performance variance detection and diagnosis for production-run parallel applications](papers/PPoPP22_Vapro.pdf)
+
+    [PPoPP'22] **Liyan Zheng**, Jidong Zhai, Xiongchao Tang, Haojie Wang, Teng Yu, Yuyang Jin, Shuaiwen Leon Song, Wenguang Chen:
+
+- [Leveraging Code Snippets to Detect Variations in the Performance of HPC Systems](https://ieeexplore.ieee.org/document/9735307)
+
+    [TPDS'22] Jidong Zhai, **Liyan Zheng**, Jinghan Sun, Feng Zhang, Xiongchao Tang, Xuehai Qian, Bingsheng He, Wei Xue, Wenguang Chen, Weimin Zheng
+
+- BaGuaLu: targeting brain scale pretrained models with over 37 million cores
+
+    [PPoPP'22] Zixuan Ma, Jiaao He, Jiezhong Qiu, Huanqi Cao, Yuanwei Wang, Zhenbo Sun, **Liyan Zheng**, Haojie Wang, Shizhi Tang, Tianyu Zheng, Junyang Lin, Guanyu Feng, Zeqiang Huang, Jie Gao, Aohan Zeng, Jianwei Zhang, Runxin Zhong, Tianhui Shi, Sha Liu, Weimin Zheng, Jie Tang, Hongxia Yang, Xin Liu, Jidong Zhai, Wenguang Chen:
+
+- FreeTensor: a free-form DSL with holistic optimizations for irregular tensor programs
+
+    [PLDI'22] Shizhi Tang, Jidong Zhai, Haojie Wang, Lin Jiang, **Liyan Zheng**, Zhenhao Yuan, Chen Zhang
+
+- PET: Optimizing Tensor Programs with Partially Equivalent Transformations and Automated Corrections
+
+    [OSDI'21] Haojie Wang, Jidong Zhai, Mingyu Gao, Zixuan Ma, Shizhi Tang, **Liyan Zheng**, Yuanzhi Li, Kaiyuan Rong, Yuanyong Chen, Zhihao Jia
+
 Talks
 ======
 **EinNet: Optimizing Tensor Programs with Derivation-Based Transformations**
 - ChinaSys, TURC, Wuhan, July 2023
 - OSDI, Boston, July 2023
 
-<!-- [Paper]() [Slides]() [Code]() -->
 
 **Vapro: performance variance detection and diagnosis for production-run parallel applications**
-- HPC China, Online, July 2022
+<!-- - HPC China, Online, July 2022 -->
 - PPoPP, Online, April 2022
