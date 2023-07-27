@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Liyan Zheng"
 title_separator          : "-"
 name                     : &name "Liyan Zheng"
-description              : &description "Undergraduate student at computer sceince department of Tsinghua University"
+description              : &description "Ph.D. student at Tsinghua University"
 url                      : https://zhengly123.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zhengly123.github.io"
@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Liyan Zheng"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  avatar           : "zly.jpg"
+  bio              : 
   location         : "Beijing"
   employer         :
-  googlescholar    : 
-  email            : "zhengly123#outlook.com"
+  googlescholar    : "https://scholar.google.com/citations?user=odyWv7gAAAAJ"
+  email            : "liyan-zheng at outlook.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
