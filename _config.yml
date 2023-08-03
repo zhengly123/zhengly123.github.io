@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Liyan Zheng"
 title_separator          : "-"
 name                     : &name "Liyan Zheng"
-description              : &description "Ph.D. student at Tsinghua University"
+description              : &description "Liyan Zheng, Ph.D. student at Tsinghua University"
 url                      : https://zhengly123.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zhengly123.github.io"
@@ -51,7 +51,7 @@ atom_feed:
 
 # SEO Related
 google_site_verification : E6XsQVDDYf7TZkC8t61axWODwlITco3kq0YxcWGJvpA
-bing_site_verification   :
+bing_site_verification   : EC4A5139016259A88B2F4941D2B66DE3
 alexa_site_verification  :
 yandex_site_verification :
 

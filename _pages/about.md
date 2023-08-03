@@ -57,4 +57,5 @@ Talks
 
 **Vapro: performance variance detection and diagnosis for production-run parallel applications**
 <!-- - HPC China, Online, July 2022 -->
+- Meta, Online, August 2023
 - PPoPP, Online, April 2022
