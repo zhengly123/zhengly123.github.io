@@ -22,42 +22,29 @@ Projects
 Publications
 ======
 
-<!-- [Paper]() [Slides]() [Code]() -->
-
-- **[OSDI'23]** EinNet: Optimizing Tensor Programs with Derivation-Based Transformations
-
-    **Liyan Zheng**, Haojie Wang, Jidong Zhai, Muyan Hu, Zixuan Ma, Tuowei Wang, Shuhong Huang, Xupeng Miao, Shizhi Tang, Kezhao Huang, Zhihao Jia
-  
+- **[OSDI'23]** EinNet: Optimizing Tensor Programs with Derivation-Based Transformations <br>
+    **Liyan Zheng**, Haojie Wang, Jidong Zhai, Muyan Hu, Zixuan Ma, Tuowei Wang, Shuhong Huang, Xupeng Miao, Shizhi Tang, Kezhao Huang, Zhihao Jia <br>
     [[Paper]](papers/OSDI23_EinNet.pdf) [[Slides]](papers/OSDI23_EinNet_slides.pdf) [[Poster]](papers/OSDI23_EinNet_poster.pdf) [[Code]](https://github.com/InfiniTensor/InfiniTensor)
 
-- **[PPoPP'22]** Vapro: performance variance detection and diagnosis for production-run parallel applications
-
-    **Liyan Zheng**, Jidong Zhai, Xiongchao Tang, Haojie Wang, Teng Yu, Yuyang Jin, Shuaiwen Leon Song, Wenguang Chen:
-
+- **[PPoPP'22]** Vapro: performance variance detection and diagnosis for production-run parallel applications <br>
+    **Liyan Zheng**, Jidong Zhai, Xiongchao Tang, Haojie Wang, Teng Yu, Yuyang Jin, Shuaiwen Leon Song, Wenguang Chen <br>
     [[Paper]](papers/PPoPP22_Vapro.pdf) [[Slides]](papers/PPoPP22_Vapro_slides.pdf) [[Code]](https://github.com/thu-pacman/VAPRO)
 
-- **[TPDS'22]** Detecting Performance Variance for Parallel Applications Without Source Code
-
-    Jidong Zhai, **Liyan Zheng**, Jinghan Sun, Feng Zhang, Xiongchao Tang, Xuehai Qian, Bingsheng He, Wei Xue, Wenguang Chen, Weimin Zheng
-
+- **[TPDS'22]** Detecting Performance Variance for Parallel Applications Without Source Code <br>
+    Jidong Zhai, **Liyan Zheng**, Jinghan Sun, Feng Zhang, Xiongchao Tang, Xuehai Qian, Bingsheng He, Wei Xue, Wenguang Chen, Weimin Zheng <br>
     [[Paper]](https://ieeexplore.ieee.org/document/9794597) 
 
-- **[TPDS'22]** Leveraging Code Snippets to Detect Variations in the Performance of HPC Systems
-
-    Jidong Zhai, **Liyan Zheng**, Jinghan Sun, Feng Zhang, Xiongchao Tang, Xuehai Qian, Bingsheng He, Wei Xue, Wenguang Chen, Weimin Zheng
-
+- **[TPDS'22]** Leveraging Code Snippets to Detect Variations in the Performance of HPC Systems <br>
+    Jidong Zhai, **Liyan Zheng**, Jinghan Sun, Feng Zhang, Xiongchao Tang, Xuehai Qian, Bingsheng He, Wei Xue, Wenguang Chen, Weimin Zheng <br>
     [[Paper]](https://ieeexplore.ieee.org/document/9735307) 
 
-- **[PPoPP'22]** BaGuaLu: targeting brain scale pretrained models with over 37 million cores
-
+- **[PPoPP'22]** BaGuaLu: targeting brain scale pretrained models with over 37 million cores <br>
     Zixuan Ma, Jiaao He, Jiezhong Qiu, Huanqi Cao, Yuanwei Wang, Zhenbo Sun, **Liyan Zheng**, Haojie Wang, Shizhi Tang, Tianyu Zheng, Junyang Lin, Guanyu Feng, Zeqiang Huang, Jie Gao, Aohan Zeng, Jianwei Zhang, Runxin Zhong, Tianhui Shi, Sha Liu, Weimin Zheng, Jie Tang, Hongxia Yang, Xin Liu, Jidong Zhai, Wenguang Chen:
 
-- **[PLDI'22]** FreeTensor: a free-form DSL with holistic optimizations for irregular tensor programs
-
+- **[PLDI'22]** FreeTensor: a free-form DSL with holistic optimizations for irregular tensor programs <br>
     Shizhi Tang, Jidong Zhai, Haojie Wang, Lin Jiang, **Liyan Zheng**, Zhenhao Yuan, Chen Zhang
 
-- **[OSDI'21]** PET: Optimizing Tensor Programs with Partially Equivalent Transformations and Automated Corrections
-
+- **[OSDI'21]** PET: Optimizing Tensor Programs with Partially Equivalent Transformations and Automated Corrections <br>
     Haojie Wang, Jidong Zhai, Mingyu Gao, Zixuan Ma, Shizhi Tang, **Liyan Zheng**, Yuanzhi Li, Kaiyuan Rong, Yuanyong Chen, Zhihao Jia
 
 Talks
