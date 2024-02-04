@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year Ph.D. student in [the Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/csen/), [Tsinghua University](https://www.tsinghua.edu.cn/en/). I am currently advised by [Jidong Zhai](https://pacman.cs.tsinghua.edu.cn/~zjd/) in the [PACMAN](https://pacman.cs.tsinghua.edu.cn/) group.
+I am a fourth-year Ph.D. student in [the Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/csen/), [Tsinghua University](https://www.tsinghua.edu.cn/en/). I am currently advised by [Jidong Zhai](https://pacman.cs.tsinghua.edu.cn/~zjd/) in the [PACMAN](https://pacman.cs.tsinghua.edu.cn/) group.
 
 Research
 ======
@@ -30,7 +30,7 @@ Publications
     **Liyan Zheng**, Jidong Zhai, Xiongchao Tang, Haojie Wang, Teng Yu, Yuyang Jin, Shuaiwen Leon Song, Wenguang Chen <br>
     [[Paper]](papers/PPoPP22_Vapro.pdf) [[Slides]](papers/PPoPP22_Vapro_slides.pdf) [[Code]](https://github.com/thu-pacman/VAPRO)
 
-- **[TPDS'22]** Detecting Performance Variance for Parallel Applications Without Source Code <br>
+- **[TPDS'22]** Detecting Performance Variance for Parallel Applications Without Source Code **(Best Paper Award Runner-Up)**<br>
     Jidong Zhai, **Liyan Zheng**, Jinghan Sun, Feng Zhang, Xiongchao Tang, Xuehai Qian, Bingsheng He, Wei Xue, Wenguang Chen, Weimin Zheng <br>
     [[Paper]](https://ieeexplore.ieee.org/document/9794597) 
 
