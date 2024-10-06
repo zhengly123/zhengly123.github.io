@@ -8,11 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year Ph.D. student in [the Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/csen/), Tsinghua University. I am advised by [Jidong Zhai](https://pacman.cs.tsinghua.edu.cn/~zjd/) in the [PACMAN](https://pacman.cs.tsinghua.edu.cn/) group. Currently, I am visiting the [Catalyst](https://catalyst.cs.cmu.edu/) group of CMU and also advised by [Zhihao Jia](https://www.cs.cmu.edu/~zhihaoj2/).
-
-Research
-======
-My passion lies in efficient machine learning systems, covering compilation optimization, efficient service, and long-term operation. I am always eager to engage in conversations and collaborate with others who share my passion for this field.
+I am a fourth-year Ph.D. student in [the Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/csen/), Tsinghua University. I am advised by [Jidong Zhai](https://pacman.cs.tsinghua.edu.cn/~zjd/) in the [PACMAN](https://pacman.cs.tsinghua.edu.cn/) group. 
+<!-- Currently, I am visiting the [Catalyst](https://catalyst.cs.cmu.edu/) group of CMU and also advised by [Zhihao Jia](https://www.cs.cmu.edu/~zhihaoj2/). -->
+My passion lies in efficient machine learning systems, covering compilation optimization, efficient service, and long-term operation. 
+<!-- I am always eager to engage in conversations and collaborate with others who share my passion for this field. -->
 
 Projects
 ======
