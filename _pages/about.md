@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an LLM Systems Researcher at ByteDance Seed. I earned my Ph.D. from Tsinghua University, advised by [Jidong Zhai](https://pacman.cs.tsinghua.edu.cn/~zjd/).
+I am an LLM System Researcher at ByteDance Seed. I earned my Ph.D. from Tsinghua University, advised by [Jidong Zhai](https://pacman.cs.tsinghua.edu.cn/~zjd/).
 My passion lies in building efficient and reliable machine learning systems, with research interests covering large-scale LLM training, compilation optimization, and long-term operations.
 
 Projects
@@ -17,12 +17,14 @@ Projects
 - [Vapro](https://github.com/thu-pacman/VAPRO) is a performance profiler to detect and diagnose performance variance (i.e., performance degradation and jitters) for parallel applications.
 
 
-
 Publications
 ======
 
+- **[OSDI'26]** Safeguarding LLM Training at Scale: Online SDC Detection and Insights from 35 Million GPU Hours <br>
+Kinman Lei\*, Liyan Zheng\*, Xiang Li, Hongmin Chen, Yun Zhang, Gaohong Liu, Zuquan Song, Zixuan Ma, Zhiyu Xue, Minghui Yu, Shuguang Wang, Wencong Xiao, Haibin Lin, Yuyang Jin, Jidong Zhai, Bo Liu, Xin Liu
+
 - **[PPoPP'26]** Difflow: A Data-Characteristic-Aware Serving System for Diffusion Models <br>
-  Chengzhang Wu\*, Liyan Zheng\*, Haojie Wang, Kezhao Huang, Zixuan Ma, Dong Dong, Jidong Zhai
+Chengzhang Wu\*, Liyan Zheng\*, Haojie Wang, Kezhao Huang, Zixuan Ma, Dong Dong, Jidong Zhai
 
 - **[ATC'25]** mTuner: Accelerating Parameter-Efficient Fine-Tuning on Multi-GPU Servers with Elastic Tensor <br>
 Kezhao Huang, Siqi Zhu, Mingshu Zhai, Liyan Zheng, Kinman Lei, Jiaao He, Yuyang Jin, Jidong Zhai
